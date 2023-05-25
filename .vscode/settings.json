@@ -1,0 +1,14 @@
+{
+  "C_Cpp.intelliSenseEngine": "Tag Parser",
+  "idf.portWin": "COM8",
+  "idf.flashType": "UART",
+  "idf.adapterTargetName": "esp32",
+  "files.associations": {
+    "font8x8_basic.h": "c",
+    "ssd1306.h": "c",
+    "i2c.h": "c"
+  },
+  "idf.openOcdConfigs": [
+    "board/esp32-bridge.cfg"
+  ]
+}
